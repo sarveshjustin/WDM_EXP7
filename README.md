@@ -1,5 +1,4 @@
 ### EX7 Implementation of Link Analysis using HITS Algorithm
-### DATE: 
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
@@ -93,5 +92,7 @@ plt.show()
 ```
 
 ### Output:
+![image](https://github.com/21005688/WDM_EXP7/assets/94747031/b05ca18a-0435-4f51-ba62-4e7bd4b31f76)
 
 ### Result:
+Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
